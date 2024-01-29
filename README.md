@@ -80,5 +80,8 @@ spring:
     max-in-memory-size: 10MB
 ```
 
-Bu alanlara kendi AWS bilgilerinizi ve oluşturduğunuz S3 depolama alanının adını ekleyin.
-[I learned with youtube video of amigoscode](https://www.youtube.com/watch?v=9i1gQ7w2V24&list=LL&index=4&t=4842s)
+Bu alanlara kendi AWS bilgilerinizi ve oluşturduğunuz S3 depolama alanının adını ekleyin.  
+## Kaynaklar
+[AWS S3 Credentials Dosyası Oluşturma](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/credentials-temporary.html)  
+[AWS S3 Credentials Dosyasını Ortam Değişkenlerine Tanıtma](https://docs.aws.amazon.com/sdkref/latest/guide/file-location.html)  
+[I Learned With Youtube Video of Amigoscode](https://www.youtube.com/watch?v=9i1gQ7w2V24&list=LL&index=4&t=4842s)
