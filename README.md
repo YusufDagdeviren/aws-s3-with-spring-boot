@@ -30,7 +30,7 @@ Projenin yerel ortamınızda çalıştırılabilmesi için aşağıdaki adımlar
 3. customer adında veritabanı oluşturun
 ### Uygulama Konfigürasyonu
 
-`application.properties` dosyasını açın ve aşağıdaki bilgileri güncelleyin:
+`application.yml` dosyasını açın ve aşağıdaki bilgileri güncelleyin:
 
 ```properties
 server:
