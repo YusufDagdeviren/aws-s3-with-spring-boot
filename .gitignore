@@ -1,0 +1,24 @@
+# Java
+*.class
+*.jar
+/target/
+
+# Maven
+/mvnw
+/mvnw.cmd
+/.mvn/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Visual Studio Code
+.vscode/
+
+# Spring Boot
+/logs/
+/build/
+/bin/
+
+# resources/application.yml
+application.yml
